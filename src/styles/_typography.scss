@@ -1,0 +1,68 @@
+.HomePage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+
+}
+/*.particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0.5;
+}*/
+
+.hero-text {
+  color: #313131;
+  text-align: center;
+  font-size: 4.6rem;
+  line-height: 3.75rem;
+  font-family: 'Nunito,sans-serif';
+  /*font-weight: bold;*/
+  span {
+    color: rgb(94, 73, 121);
+  }
+}
+
+.h-sub-text {
+  text-align: center;
+  color: #313131;
+  padding: 25px;
+  font-size: 1.40rem;
+  line-height: 1.75rem;
+  font-weight: 400;
+
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 0;
+
+  .icon-holder {
+    margin-right: 1rem;
+
+    .icon {
+      font-size: 2.8rem;
+      color: #313131;
+      transition: all .4s ease-in-out;
+    }
+
+    .be:hover {
+      color: blue;
+    }
+
+    .gh:hover {
+      color: rgba(212, 45, 212, 0.788);
+    }
+
+    .link:hover {
+      color: rgba(255, 0, 0, 0.55);
+    }
+  }
+}
+
