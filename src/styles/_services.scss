@@ -16,6 +16,10 @@
       margin-bottom: 1rem;
     }
 
+    @media screen and (max-width: 1920px) {
+      width: 80%;
+      margin-bottom: 1rem;
+    }
     &:hover {
       border-top: 8px solid #a4acc4;
     }

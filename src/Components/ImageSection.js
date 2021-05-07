@@ -12,26 +12,26 @@ function ImageSection() {
 
             <div className="about-info">
                 <h4>I am<span> Kristina Gorbunova</span></h4>
-                <p className="about-text">
-                    <p>The process of building a webpage fascinates me. I am passionate about UX/UI design, SEO, mobile
-                        first approach and eager to expand my knowledge of web development.</p>
-                </p>
+                <div className="about-text">
+                    <div>The process of building a webpage fascinates me. I am passionate about UX/UI design, SEO, mobile
+                        first approach and eager to expand my knowledge of web development.</div>
+                </div>
                 <div className="about-details">
                     <div className="left-section">
-                        <p>Full Name</p>
-                        <p>Age</p>
-                        <p>Nationality</p>
-                        <p>Education</p>
-                        <p>Languages</p>
-                        <p>Country</p>
+                        <div>Full Name</div>
+                        <div>Age</div>
+                        <div>Nationality</div>
+                        <div>Education</div>
+                        <div>Languages</div>
+                        <div>Country</div>
                     </div>
                     <div className="right-section">
-                        <p>: Kristina Gorbunova</p>
-                        <p>: 23</p>
-                        <p>: Russian</p>
-                        <p>: Peoples' Friendship university of Russia</p>
-                        <p>: English, French</p>
-                        <p>: Moscow, Russia</p>
+                        <div>: Kristina Gorbunova</div>
+                        <div>: 23</div>
+                        <div>: Russian</div>
+                        <div>: Peoples' Friendship university of Russia</div>
+                        <div>: English, French</div>
+                        <div>: Moscow, Russia</div>
                     </div>
                 </div>
                 {/*<button className="btn">{downloadFile}</button>*/}

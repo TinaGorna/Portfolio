@@ -6,6 +6,12 @@
   .img {
     width: 100%;
     height: 50vh;
+    @media screen and (max-width: 1920px){
+      width: 40%;
+    }
+    @media screen and (max-width: 960px){
+      width: 60%;
+    }
 
     img {
       width: 100%;
@@ -109,6 +115,10 @@
   color: #ffffff;
   margin-bottom: 1rem;
   transition: all .3s ease-in-out;
+  @media screen and (max-width: 1920px){
+    padding: .2rem 1rem;
+    font-size: 1.5rem;
+  }
 
   &:not(:last-child) {
     margin-right: 1rem;

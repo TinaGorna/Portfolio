@@ -2,10 +2,7 @@ import React from 'react';
 import {faBehance, faLinkedin} from '@fortawesome/free-brands-svg-icons';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-import {Link} from 'react-router-dom';
 import ReactTypingEffect from 'react-typing-effect';
-import ParticleBackground from "./ParticleBackground";
-import ParticleConfig from "./ParticleConfig";
 
 
 function HomePage() {

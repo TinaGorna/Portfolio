@@ -27,19 +27,31 @@
       .nav-item{
         list-style: none;
         text-align: center;
+        @media screen and (max-width: 1920px){
+          font-size: 1.40rem;
+          line-height: 1.75rem;
+        }
+        @media screen and (max-width: 960px){
+          font-size: 1.40rem;
+          line-height: 1.75rem;
+        }
+        @media screen and (max-width: 600px){
+          font-size: 1.40rem;
+          line-height: 1.75rem;
+        }
         a{
           padding: 20px 0;
           letter-spacing: 1px;
           text-decoration: none;
           font-size: inherit;
-         /* color: #a4acc4;*/
+          /*color: #a4acc4;*/
           display: block;
           position: relative;
           font-weight: 600;
           font-family: 'Nunito,sans-serif';
           text-transform: uppercase;
           color: #313131;
-          /* padding: .9rem 0;*/
+           padding: .9rem 0;
           &::before{
             content: "";
             position: absolute;

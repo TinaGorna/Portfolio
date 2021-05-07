@@ -17,7 +17,7 @@ function MenuItems({menuItem}) {
                         <h5>
                             {item.title}
                         </h5>
-                        <h3>Details</h3>
+                        <h3 className='common'>Details</h3>
                     </div>
                 })
             }
