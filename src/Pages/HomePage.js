@@ -14,17 +14,17 @@ function HomePage() {
                     <ReactTypingEffect
                         text={" Hi, I am Kristina"}/>
                 </h1>
-                <p className="h-sub-text">
+                <div className="h-sub-text">
                     <div>
-                        I am web developer. <p>I started learning more about web development when I was launching my
+                        I am web developer. <div>I started learning more about web development when I was launching my
                         online English courses and needed to build websites for my personal brand, blog about
-                        English.</p>  {/*<p>That time, I realized that I'm more interested in the technical part of my
+                        English.</div>  {/*<p>That time, I realized that I'm more interested in the technical part of my
                         courses.</p>*/}
-                        <p>Thus, I decided to dive deep into coding.</p>{/*
+                        <div>Thus, I decided to dive deep into coding.</div>{/*
                         <p>So, I decided to dive deep into coding. Since then, I've built performant and accessible websites and web applications using HTML, CSS, React.js, Django, Git Version Control.</p>
                         <p>The process of building a webpage from scratch fascinates me! I am passionate about UX/UI design, SEO, mobile first approach and eager to expand my knowledge of web development.</p>*/}
                     </div>
-                </p>
+                </div>
                 <div className="icons">
                     <a href="https://www.behance.net/kristingorbuno" className="icon-holder">
                         <FontAwesomeIcon icon={faBehance} className="icon be"/>
