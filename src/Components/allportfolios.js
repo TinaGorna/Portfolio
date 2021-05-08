@@ -1,6 +1,7 @@
 import app from '../img/portImages/app.png';
 import scroll from '../img/portImages/scroll.png';
 import moto from '../img/portImages/macBook.png';
+import counter from '../img/portImages/img.png'
 
 const portfolios = [
     {
@@ -27,6 +28,14 @@ const portfolios = [
         image: moto,
         title: 'Web Design: Figma'
     },
+    {
+        id: 4,
+        category: 'Counter',
+        link1: 'https://tinagorna.github.io/control-work/',
+        icon1: 'view',
+        image: counter,
+        title: 'Counter: LocalStorage'
+    }
 
 ]
 
