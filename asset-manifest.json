@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ba6efa3e.chunk.css",
-    "main.js": "/portfolio/static/js/main.988f0cc3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.988f0cc3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.f92b91c1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f92b91c1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.ec154b85.chunk.js": "/portfolio/static/js/2.ec154b85.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
     "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
     "static/media/game-dev.20147858.svg": "/portfolio/static/media/game-dev.20147858.svg",
+    "static/media/img.ba92f6c8.png": "/portfolio/static/media/img.ba92f6c8.png",
     "static/media/intelligence.11bd2ab2.svg": "/portfolio/static/media/intelligence.11bd2ab2.svg",
     "static/media/lang.418fe4de.jpg": "/portfolio/static/media/lang.418fe4de.jpg",
     "static/media/location.5cd6776e.svg": "/portfolio/static/media/location.5cd6776e.svg",
@@ -29,6 +30,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.ec154b85.chunk.js",
     "static/css/main.ba6efa3e.chunk.css",
-    "static/js/main.988f0cc3.chunk.js"
+    "static/js/main.f92b91c1.chunk.js"
   ]
 }
