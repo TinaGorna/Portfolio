@@ -2,6 +2,7 @@ import app from '../img/portImages/app.png';
 import scroll from '../img/portImages/scroll.png';
 import moto from '../img/portImages/macBook.png';
 import counter from '../img/portImages/img.png'
+import currency from '../img/portImages/currency.png'
 
 const portfolios = [
     {
@@ -43,8 +44,17 @@ const portfolios = [
         icon2: 'code',
         image: counter,
         title: 'Counter: React (hooks)'
+    },
+    {
+        id: 6,
+        category: 'Currency exchange',
+        link1: 'https://tinagorna.github.io/currency-exchange/',
+        link2: 'https://github.com/TinaGorna/currency-exchange',
+        icon1: 'view',
+        icon2: 'code',
+        image: currency,
+        title: 'React, Redux'
     }
-
 ]
 
 export default portfolios;
