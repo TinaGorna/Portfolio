@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f7bf47c3.chunk.css",
-    "main.js": "/portfolio/static/js/main.2b4461e7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2b4461e7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.25fb22b2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.25fb22b2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.ec154b85.chunk.js": "/portfolio/static/js/2.ec154b85.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.f7bf47c3.chunk.css.map": "/portfolio/static/css/main.f7bf47c3.chunk.css.map",
     "static/js/2.ec154b85.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ec154b85.chunk.js.LICENSE.txt",
     "static/media/ContextAPI.ba374fd2.jpg": "/portfolio/static/media/ContextAPI.ba374fd2.jpg",
-    "static/media/app.64ba022d.png": "/portfolio/static/media/app.64ba022d.png",
+    "static/media/app.c7be6c74.png": "/portfolio/static/media/app.c7be6c74.png",
     "static/media/avatar.181e6e34.jpg": "/portfolio/static/media/avatar.181e6e34.jpg",
     "static/media/blog.f70e920f.jpg": "/portfolio/static/media/blog.f70e920f.jpg",
     "static/media/currency.b409eed0.png": "/portfolio/static/media/currency.b409eed0.png",
@@ -19,7 +19,7 @@
     "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
     "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
     "static/media/game-dev.20147858.svg": "/portfolio/static/media/game-dev.20147858.svg",
-    "static/media/img.ba92f6c8.png": "/portfolio/static/media/img.ba92f6c8.png",
+    "static/media/img.ac163306.png": "/portfolio/static/media/img.ac163306.png",
     "static/media/intelligence.11bd2ab2.svg": "/portfolio/static/media/intelligence.11bd2ab2.svg",
     "static/media/lang.418fe4de.jpg": "/portfolio/static/media/lang.418fe4de.jpg",
     "static/media/location.5cd6776e.svg": "/portfolio/static/media/location.5cd6776e.svg",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.ec154b85.chunk.js",
     "static/css/main.f7bf47c3.chunk.css",
-    "static/js/main.2b4461e7.chunk.js"
+    "static/js/main.25fb22b2.chunk.js"
   ]
 }
